@@ -1,0 +1,27 @@
+@import url(https://fonts.google.com/specimen/Pacifico?query=Pacifico);
+body{
+    margin:0;
+    font-family: 'Inter', sans-serif;
+}
+header{
+    height: 72px;
+    display: flex;
+    align-items: center;
+    padding: 0 20%;
+    justify-content: spase-batween;
+}
+header a{
+    margin: right 25px;
+}
+.logo{
+font-family:Pacifico ;
+    font-size: 45px;
+}
+header a{
+    margin: right 25px;
+    font-weight: 500;
+    font-size: 14px;
+    color: #18191f;
+    text-decoration: none;
+}
+
